@@ -2,7 +2,7 @@
   "name": "srek",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Sreejith-git-2991.github.io/react.git",
+  "homepage": "https://Sreejith-git-2991.github.io/react",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
