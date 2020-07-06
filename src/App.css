@@ -24,6 +24,13 @@
   color: white;
 }
 
+h1 { 
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color:cornflowerblue;
+
+}
+
 .App-link {
   color: #61dafb;
 }
