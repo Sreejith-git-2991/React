@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Sreejith-git-2991/react.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Sreejith-git-2991/react.git/static/js/main.5abb34da.chunk.js",
+    "main.js.map": "/Sreejith-git-2991/react.git/static/js/main.5abb34da.chunk.js.map",
+    "runtime-main.js": "/Sreejith-git-2991/react.git/static/js/runtime-main.adf836ce.js",
+    "runtime-main.js.map": "/Sreejith-git-2991/react.git/static/js/runtime-main.adf836ce.js.map",
+    "static/js/2.d111c84e.chunk.js": "/Sreejith-git-2991/react.git/static/js/2.d111c84e.chunk.js",
+    "static/js/2.d111c84e.chunk.js.map": "/Sreejith-git-2991/react.git/static/js/2.d111c84e.chunk.js.map",
+    "index.html": "/Sreejith-git-2991/react.git/index.html",
+    "precache-manifest.04da425089b8f41444ea8e9167ac0b9b.js": "/Sreejith-git-2991/react.git/precache-manifest.04da425089b8f41444ea8e9167ac0b9b.js",
+    "service-worker.js": "/Sreejith-git-2991/react.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Sreejith-git-2991/react.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d111c84e.chunk.js.LICENSE.txt": "/Sreejith-git-2991/react.git/static/js/2.d111c84e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Sreejith-git-2991/react.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adf836ce.js",
+    "static/js/2.d111c84e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5abb34da.chunk.js"
+  ]
+}
